@@ -1,0 +1,16 @@
+{
+  "name": "pollution_monitoring",
+  "description": "show the pollution data present in the environment",
+  "main": "index.js",
+  "authors": [
+    "priya joshi"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/joshipriya93forever/PollutionMonitoring_New",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "test",
+    "tests"
+  ]
+}
